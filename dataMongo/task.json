@@ -1,0 +1,26 @@
+[
+  {
+    "_id": {"$oid": "6010947d74bd724a70ee993f"},
+    "cant_vol_inscritos": 56,
+    "cant_vol_requeridos": 200,
+    "descripcion": "Nueva descripción",
+    "ffin": {"$date": "2021-01-23T20:35:41.759Z"},
+    "finicio": {"$date": "2021-01-23T20:35:41.759Z"},
+    "id_emergencia": 11,
+    "id_estado": 21,
+    "invisible": 0,
+    "nombre": "tarea_test_3"
+  },
+  {
+    "_id": {"$oid": "6010d3a18611cd62450a853a"},
+    "cant_vol_inscritos": 56,
+    "cant_vol_requeridos": 200,
+    "descripcion": "Descripción tarea nueva",
+    "ffin": {"$date": "2021-01-23T20:35:41.759Z"},
+    "finicio": {"$date": "2021-01-23T20:35:41.759Z"},
+    "id_emergencia": 11,
+    "id_estado": 21,
+    "invisible": 0,
+    "nombre": "tarea_test_3"
+  }
+]
